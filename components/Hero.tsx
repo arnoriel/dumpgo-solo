@@ -104,7 +104,6 @@ export default function Hero() {
                       {i + 1}
                     </span>
                     <span className="text-[14px] font-medium text-ink">{m}</span>
-                    <span className="ml-auto w-2 h-2 rounded-full bg-green-400 flex-shrink-0" />
                   </div>
                 ))}
               </div>
@@ -121,7 +120,7 @@ export default function Hero() {
 
             {/* Floating badge */}
             <div className="absolute -top-4 -right-3 bg-amber text-white text-[11px] font-extrabold px-3.5 py-1.5 rounded-full shadow-md shadow-amber/30 whitespace-nowrap">
-              3+ Tahun Melayani ✓
+              3+ Tahun Melayani
             </div>
           </div>
 

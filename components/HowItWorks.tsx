@@ -7,7 +7,7 @@ const steps = [
     icon: MessageCircle,
     number: '01',
     title: 'Chat WA dulu',
-    desc: 'Kamu tinggal chat WA dan ceritain kebutuhanmu — jenis material apa, berapa banyak, dan lokasinya di mana.',
+    desc: 'Kamu tinggal chat WA dan ceritain kebutuhanmu jenis material apa, berapa banyak, dan lokasinya di mana.',
   },
   {
     icon: ClipboardList,
@@ -38,7 +38,7 @@ export default function HowItWorks() {
             </h2>
             <p className="text-ink-muted text-base leading-relaxed mb-6">
               Gak perlu datang ke mana-mana, gak perlu isi form panjang.
-              Semua bisa diselesaikan lewat WA — dari tanya harga sampai pengiriman.
+              Semua bisa diselesaikan lewat WA dari tanya harga sampai pengiriman.
             </p>
             <a
               href={WA_LINK}

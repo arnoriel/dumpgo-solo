@@ -16,7 +16,7 @@ export default function AreaCoverage() {
               Kamu di mana?<br />Kami antar ke sana.
             </h2>
             <p className="text-ink-muted text-base leading-relaxed mb-6">
-              Dari pusat kota Solo sampai kabupaten sekitarnya — selama masih area
+              Dari pusat kota Solo sampai kabupaten sekitarnya selama masih area
               Solo Raya, armada dump truck kami siap menjangkau lokasi proyekmu.
             </p>
 
@@ -44,12 +44,12 @@ export default function AreaCoverage() {
               {
                 icon: Navigation,
                 title: 'Pengiriman Material Bangunan',
-                desc: 'Pasir, batu split, batu sungai, tanah urug, sirtu — langsung ke lokasi proyek atau rumah kamu.',
+                desc: 'Pasir, batu split, batu sungai, tanah urug, sirtu langsung ke lokasi proyek atau rumah kamu.',
               },
               {
                 icon: MapPin,
                 title: 'Proyek Konstruksi & Renovasi',
-                desc: 'Bangun rumah, ruko, cor jalan, atau urugan lahan — semua bisa kami support dari sisi material.',
+                desc: 'Bangun rumah, ruko, cor jalan, atau urugan lahan semua bisa kami support dari sisi material.',
               },
               {
                 icon: Navigation,

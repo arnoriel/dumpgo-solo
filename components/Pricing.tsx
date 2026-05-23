@@ -31,7 +31,7 @@ export default function Pricing() {
             </h2>
             <p className="text-ink-muted text-base leading-relaxed mb-8">
               Harga di bawah adalah estimasi awal. Harga finalnya disesuaikan
-              dengan lokasi dan volume order kamu — dan selalu dikonfirmasi dulu
+              dengan lokasi dan volume order kamu dan selalu dikonfirmasi dulu
               sebelum pengiriman.
             </p>
 

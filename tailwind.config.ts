@@ -22,7 +22,7 @@ const config: Config = {
         'wa-green':   '#25D366',
       },
       fontFamily: {
-        sans: ['Plus Jakarta Sans', 'sans-serif'],
+        sans: ['Outfit', 'sans-serif'],
       },
       borderRadius: {
         '2xl': '16px',
